@@ -1,5 +1,5 @@
 ---
-style: post
+layout: post
 ---
 
 ####2016漫画阅读记录
