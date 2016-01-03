@@ -4,9 +4,9 @@ layout: post
 
 ####龙虾
 
-电影名字叫龙虾（The Lobster），2015年的电影,是一部黑色喜剧。
+龙虾(The Lobster)，2015年的电影,是一部黑色喜剧。
 
-![海报](http://img3.douban.com/view/photo/photo/public/p2291097864.jpg)
+![海报](http://www.film1.nl/images/portrait/original/113495.jpg)
 
 假设某个社会单身的人会被组织到一个酒店里，男女尝试找寻适合自己的另一半， 在期限内若没有配对成功，就会被转变为一种动物。你可以选择成为什么动物。你要反抗，逃跑了，就会在森林中成为孤独者。
 
