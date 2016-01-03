@@ -1,3 +1,8 @@
+---
+layout: post
+---
+
+
 **El amor en los tiempos del cólera**
 
 

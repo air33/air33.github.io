@@ -1,4 +1,9 @@
-Siddhartha
+---
+layout: post
+---
+
+**Siddhartha**
+
 by 黑塞  德国
  
 这是一本哲理小说。篇幅并不长。花了两晚读完。
