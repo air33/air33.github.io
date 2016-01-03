@@ -19,7 +19,7 @@
 
 1. **Kingdome Come**
 
-
+   ![Kingdom Come](http://www.oconowocc.com/wp-content/uploads/2013/06/Kingdom_Come_Action_Figures_1024x768.jpg)
      经典的美漫 DC世界背景。超人蝙蝠侠都老了。
   
          That hope is the brightest ... when it dawns from fear.
