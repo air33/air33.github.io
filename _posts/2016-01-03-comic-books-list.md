@@ -1,6 +1,6 @@
-####最近看的几部漫画
+####2016漫画阅读记录
 
-**[Kingdom Come](https://en.wikipedia.org/wiki/Kingdom_Come_(comics))**
+1. **[Kingdom Come](https://en.wikipedia.org/wiki/Kingdom_Come_(comics))**
 
    by Mark Weid , Alex Ross
 
