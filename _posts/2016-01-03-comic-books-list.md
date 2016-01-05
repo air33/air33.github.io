@@ -3,7 +3,7 @@ layout: post
 ---
 
 ####2016漫画阅读记录
-
+*更新中*
 
 
 
@@ -36,5 +36,5 @@ layout: post
     ![Pyongyang](http://smithsonianapa.org/bookdragon/wp-content/uploads/sites/10/2011/03/Pyongyang.jpg)
 
           DICTATORSHIP MEANS SHUT UP,DEMOCRACY MEANS KEEP TALKING 
-          
+
     这漫画其实意思并不大，可以说是日记形式。朝鲜是个熟悉又陌生的国家
