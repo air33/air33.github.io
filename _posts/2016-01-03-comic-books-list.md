@@ -34,7 +34,7 @@ layout: post
   
 #### 2. Pyongyang A journey in North Korea
    
-    ![Pyongyang](http://smithsonianapa.org/bookdragon/wp-content/uploads/sites/10/2011/03/Pyongyang.jpg)
+![Pyongyang](http://smithsonianapa.org/bookdragon/wp-content/uploads/sites/10/2011/03/Pyongyang.jpg)
 
           DICTATORSHIP MEANS SHUT UP,DEMOCRACY MEANS KEEP TALKING 
 
@@ -42,7 +42,7 @@ layout: post
 
 #### 3. V for Vendetta
  
-    ![V for Vendetta](http://www.wired.com/images_blogs/underwire/2011/12/vforvendetta.jpg)
+![V for Vendetta](http://www.wired.com/images_blogs/underwire/2011/12/vforvendetta.jpg)
 
     People shouldn’t be afraid of their government. Governments should be afraid of their people.
 
@@ -52,8 +52,7 @@ layout: post
 
     Love your rage, not your cage.
 
-    Remember , Remember the 5th of November.
-       
+    Remember , Remember the 5th of November.   
        (看到这句就想笑)
 
 
