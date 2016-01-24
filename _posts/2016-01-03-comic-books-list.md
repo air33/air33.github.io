@@ -50,10 +50,21 @@ layout: post
 
     Happiness is the most insidious prison of all.
 
+    Artists use lies to tell the truth. Yes, I created a lie. But because you believed it, you found something true about yourself
+
     Love your rage, not your cage.
 
-    Remember , Remember the 5th of November.   
+    Remember , Remember the 5th of November of gunpowder treason and plot. I know of no reason why the gun powder treason should ever be forgot   
        (看到这句就想笑)
+
+    God is in the rain.
+      (赞同)
+
+    Anarchy means "without leaders", not "without order". With anarchy comes an age or ordnung, of true order, which is to say voluntary order... this age of ordung will begin when the mad and incoherent cycle of verwirrung that these bulletins reveal has run its course... This is not anarchy, Eve. This is chaos
+
+    Equality and freedom are not luxuries to lightly cast aside. Without them, order cannot long endure before approaching depths beyond imagining
+
+    There's no flesh or blood within this cloak to kill. There's only an idea. Ideas are bulletproof
 
 
 给我最大印象的倒不是作者对anarchy的颂歌，而是对人的觉醒和V的为师之道的描绘
