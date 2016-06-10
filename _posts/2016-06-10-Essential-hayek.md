@@ -4,6 +4,10 @@ layout: post
 
 #### Essential Hayek
 
+![封面](http://www.essentialhayek.org/images/essential-hayek-cover.jpg)
+
+    By Donald J. Boudreaux , Professor of Economics at George Mason University
+
 这本小册子是专为大众写的哈耶克的理论介绍书。国内有翻译，叫**哈耶克简要**,可以在[这里](http://weibo.com/p/1001603950359000265272)找到。
 
 分了10章来介绍哈耶克的思想:
