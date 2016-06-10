@@ -19,4 +19,4 @@ layout: post
 9. The challenge of living successfully in modern society / 62
 10. Ideas have consequences / 71
 
-确实厘清了以前不太清晰的某些概念。比如为什么通胀会造成价格体系的扭曲；法与立法的区分；对亲人和陌生人做经济决定的范式区分。
+确实厘清了以前不太清晰的某些概念。比如为什么通胀会造成价格体系的扭曲；法与立法的区分；对亲人和陌生人做经济决定的范式区别。
