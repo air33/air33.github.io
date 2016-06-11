@@ -11,6 +11,7 @@ layout: post
 中文译本由人民大学出版社出版，汪耀进 武佩荣 翻译。
 
 中译本缺少了前两节,摘自英译
+
 ```
 The  necessity for this book  is  to be found in the
 following consideration: that the lover's discourse
@@ -28,6 +29,7 @@ site, however exiguous, of an  affirmation.  That
 affirmation is, in short, the subject of the  book
 which begins here  ...
 ```
+
 交代写此书的必要性。
 
 ```
