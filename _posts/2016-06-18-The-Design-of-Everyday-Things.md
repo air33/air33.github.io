@@ -87,3 +87,6 @@ upon the world, and every action carries with it expectations, and
 these expectations drive emotions. 
 20. A human without a working emotional system has difficulty making choices. A
 human without a cognitive system is dysfunctional.
+21. More and more evidence is accumulating that
+we use logic and reason after the fact, to justify our decisions to
+ourselves (to our conscious minds) and to others.
