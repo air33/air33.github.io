@@ -61,4 +61,22 @@ erate by rote, blindly
 and operation of a product. The system image is what can be derived from the physical structure that has been built (including documentation). The user’s
 mental model is developed through interaction with the product and the system
 image. Designers expect the user’s model to be identical to their own, but because they cannot communicate directly with the user, the burden of communication is with the system image
-
+15. When people use something, they face two gulfs: the Gulf of Exe-
+cution, where they try to figure out how it operates, and the Gulf
+of Evaluation, where they try to figure out what happened (Fig-
+ure 2.1). The role of the designer is to help people bridge the
+two gulfs.
+16. Seven stages of action: one for goals, three for
+execution, and three for evaluation
+    a. Goal (form the goal) 
+    b. Plan (the action) 
+    c. Specify (an action sequence) 
+    d. Perform (the action sequence)
+    e. Perceive (the state of the world)
+    f. Interpret (the perception)
+    g. Compare (the outcome with the goal)
+17. Most innovation is done as an incremental enhancement of
+existing products.What about radical ideas, ones that introduce
+new product categories to the marketplace? These come about by
+reconsidering the goals, and always asking what the real goal is:
+what is called the root cause analysis
