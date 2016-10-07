@@ -44,5 +44,21 @@ layout: post
    communication is the signifier.
 10. Mapping is a technical term, borrowed from mathematics, mean-
     ing the relationship between the elements of two sets of things.
-11. 
+11. Feedback has to be planned. All actions need to be confirmed,
+but in a manner that is unobtrusive. Feedback must also be prior-
+itized, so that unimportant information is presented in an unob-
+trusive fashion, but important signals are presented in a way that
+does capture attention. 
+12. A conceptual model is an explanation, usually highly simplified,
+of how something works. It doesn’t have to be complete or even
+accurate as long as it is useful.
+13. Conceptual models are valuable in providing understanding, in
+predicting how things will behave, and in figuring out what to do
+when things do not go as planned. A good conceptual model allows
+us to predict the effects of our actions. Without a good model, we op-
+erate by rote, blindly
+14. The designer’s conceptual model is the designer’s conception of the look, feel,
+and operation of a product. The system image is what can be derived from the physical structure that has been built (including documentation). The user’s
+mental model is developed through interaction with the product and the system
+image. Designers expect the user’s model to be identical to their own, but because they cannot communicate directly with the user, the burden of communication is with the system image
 
