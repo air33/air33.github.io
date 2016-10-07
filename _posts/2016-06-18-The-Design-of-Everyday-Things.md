@@ -80,3 +80,10 @@ existing products.What about radical ideas, ones that introduce
 new product categories to the marketplace? These come about by
 reconsidering the goals, and always asking what the real goal is:
 what is called the root cause analysis
+18. and we like to think we understand ourselves. But the truth is, we don’t. Most of human behavior is a result of subconscious processes. We are
+unaware of them. As a result, many of our beliefs about how people behave—including beliefs about ourselves—are wrong. 
+19. Cognition and emotion cannot be separated. Cognitive thoughts lead to emotions: emotions drive cognitive thoughts. The brain is structured to act
+upon the world, and every action carries with it expectations, and
+these expectations drive emotions. 
+20. A human without a working emotional system has difficulty making choices. A
+human without a cognitive system is dysfunctional.
