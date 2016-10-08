@@ -9,7 +9,7 @@ redcarpet:
     - strikethrough
     - superscript
     - with_to_data
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
