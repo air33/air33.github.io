@@ -97,4 +97,8 @@ the conceptual models they develop account for the facts as they
 perceive them. 
 24. **When we do this, we tend to attribute our behavior
 to the environment. When we see others do it, we tend to attribute
-it to their personalities.**
+it to their personalities.** ...Just the opposite attribution, by
+the way, is made when things go well. When things go right, peo-
+ple credit their own abilities and intelligence. The onlookers do
+the reverse. When they see things go well for someone else, they
+sometimes credit the environment, or luck.
