@@ -90,3 +90,11 @@ human without a cognitive system is dysfunctional.
 21. More and more evidence is accumulating that
 we use logic and reason after the fact, to justify our decisions to
 ourselves (to our conscious minds) and to others.
+22. DESIGN MUST TAKE PLACE AT ALL LEVELS:VISCERAL, BEHAVIORAL, AND REFLECTIVE
+23. The real point of these examples is not that some people have erroneous beliefs; it is that everyone forms stories (conceptual models) to explain what they have observed. In the absence of external
+information, people can let their imagination run free as long as
+the conceptual models they develop account for the facts as they
+perceive them. 
+24. **When we do this, we tend to attribute our behavior
+to the environment. When we see others do it, we tend to attribute
+it to their personalities.**
