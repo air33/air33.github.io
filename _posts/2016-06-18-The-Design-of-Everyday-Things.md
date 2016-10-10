@@ -153,3 +153,9 @@ control theory
       two: The Psychology of Everyday Actions 73
      7. Constraints. Providing physical, logical, semantic, and cultural con-
      straints guides actions and eases interpretation.
+31. One of my self-imposed rules is, “Don’t criticize unless you can do better.” 
+32. Because behavior can be guided by the combination of internal
+and external knowledge and constraints, people can minimize the
+amount of material they must learn, as well as the completeness,
+precision, accuracy, or depth of the learning. They also can delib-
+erately organize the environment to support behavior.
