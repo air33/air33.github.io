@@ -127,4 +127,29 @@ gies and, in turn, provides its own opportunity for disaster.
      5. What happened?
      6. What does it mean?
      7. Is this okay? Have I accomplished my goal?
-29. 
+29. The information that helps answer questions of execution (do-
+ing) is feedforward. The information that aids in understanding
+what has happened is feedback. Everyone knows what feedback is.
+It helps you know what happened. But how do you know what
+you can do? That’s the role of feedforward, a term borrowed from
+control theory
+30.  seven fundamental principles of design:
+     1. Discoverability. It is possible to determine what actions are possible
+     and the current state of the device.
+     2. Feedback. There is full and continuous information about the results
+     of actions and the current state of the product or service. After an
+     action has been executed, it is easy to determine the new state.
+     3. Conceptual model. The design projects all the information needed
+     to create a good conceptual model of the system, leading to under-
+     standing and a feeling of control. The conceptual model enhances
+     both discoverability and evaluation of results.
+     4. Affordances. The proper affordances exist to make the desired ac-
+     tions possible.
+     5. Signifiers. Effective use of signifiers ensures discoverability and that
+     the feedback is well communicated and intelligible.
+     6. Mappings. The relationship between controls and their actions fol-
+     lows the principles of good mapping, enhanced as much as possible
+     through spatial layout and temporal contiguity.
+      two: The Psychology of Everyday Actions 73
+     7. Constraints. Providing physical, logical, semantic, and cultural con-
+     straints guides actions and eases interpretation.
