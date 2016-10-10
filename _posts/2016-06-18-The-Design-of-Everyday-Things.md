@@ -102,3 +102,30 @@ the way, is made when things go well. When things go right, peo-
 ple credit their own abilities and intelligence. The onlookers do
 the reverse. When they see things go well for someone else, they
 sometimes credit the environment, or luck.
+25. We need to remove the word failure from our vocabulary, replacing it instead with learning experience. To fail is to learn: we learn
+more from our failures than from our successes. With success, sure,
+we are pleased, but we often have no idea why we succeeded. With
+failure, it is often possible to figure out why, to ensure that it will
+never happen again.
+26. Fail often,fail fast
+27. Designers should strive to minimize the chance of inappropriate actions in the first place by using affordances, signifiers,
+good mapping, and constraints to guide the actions. If a person
+performs an inappropriate action, the design should maximize
+the chance that this can be discovered and then rectified. This
+requires good, intelligible feedback coupled with a simple, clear
+conceptual model. When people understand what has happened,
+what state the system is in, and what the most appropriate set of
+actions is, they can perform their activities more effectively
+28.The seven-stage model of the action cycle can be a valuable de-
+sign tool, for it provides a basic checklist of questions to ask. In
+general, each stage of action requires its own special design strate-
+gies and, in turn, provides its own opportunity for disaster. 
+
+     1. What do I want to accomplish?
+     2. What are the alternative action sequences?
+     3. What action can I do now?
+     4. How do I do it?
+     5. What happened?
+     6. What does it mean?
+     7. Is this okay? Have I accomplished my goal?
+29. 
