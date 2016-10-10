@@ -68,13 +68,13 @@ ure 2.1). The role of the designer is to help people bridge the
 two gulfs.
 16. Seven stages of action: one for goals, three for
 execution, and three for evaluation
-    a. Goal (form the goal) 
-    b. Plan (the action) 
-    c. Specify (an action sequence) 
-    d. Perform (the action sequence)
-    e. Perceive (the state of the world)
-    f. Interpret (the perception)
-    g. Compare (the outcome with the goal)
+     a. Goal (form the goal) 
+     b. Plan (the action) 
+     c. Specify (an action sequence) 
+     d. Perform (the action sequence)
+     e. Perceive (the state of the world)
+     f. Interpret (the perception)
+     g. Compare (the outcome with the goal)
 17. Most innovation is done as an incremental enhancement of
 existing products.What about radical ideas, ones that introduce
 new product categories to the marketplace? These come about by
@@ -116,16 +116,15 @@ requires good, intelligible feedback coupled with a simple, clear
 conceptual model. When people understand what has happened,
 what state the system is in, and what the most appropriate set of
 actions is, they can perform their activities more effectively
-28.The seven-stage model of the action cycle can be a valuable de-
+28. The seven-stage model of the action cycle can be a valuable de-
 sign tool, for it provides a basic checklist of questions to ask. In
 general, each stage of action requires its own special design strate-
 gies and, in turn, provides its own opportunity for disaster. 
-
-     a. What do I want to accomplish?
-     b. What are the alternative action sequences?
-     c. What action can I do now?
-     d. How do I do it?
-     e. What happened?
-     f. What does it mean?
-     g. Is this okay? Have I accomplished my goal?
+     1. What do I want to accomplish?
+     2. What are the alternative action sequences?
+     3. What action can I do now?
+     4. How do I do it?
+     5. What happened?
+     6. What does it mean?
+     7. Is this okay? Have I accomplished my goal?
 29. 
