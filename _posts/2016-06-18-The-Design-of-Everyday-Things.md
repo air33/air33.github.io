@@ -121,11 +121,11 @@ sign tool, for it provides a basic checklist of questions to ask. In
 general, each stage of action requires its own special design strate-
 gies and, in turn, provides its own opportunity for disaster. 
 
-     1. What do I want to accomplish?
-     2. What are the alternative action sequences?
-     3. What action can I do now?
-     4. How do I do it?
-     5. What happened?
-     6. What does it mean?
-     7. Is this okay? Have I accomplished my goal?
+     a. What do I want to accomplish?
+     b. What are the alternative action sequences?
+     c. What action can I do now?
+     d. How do I do it?
+     e. What happened?
+     f. What does it mean?
+     g. Is this okay? Have I accomplished my goal?
 29. 
