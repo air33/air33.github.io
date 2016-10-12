@@ -150,7 +150,6 @@ control theory
      6. Mappings. The relationship between controls and their actions fol-
      lows the principles of good mapping, enhanced as much as possible
      through spatial layout and temporal contiguity.
-      two: The Psychology of Everyday Actions 73
      7. Constraints. Providing physical, logical, semantic, and cultural con-
      straints guides actions and eases interpretation.
 31. One of my self-imposed rules is, “Don’t criticize unless you can do better.” 
@@ -159,3 +158,9 @@ and external knowledge and constraints, people can minimize the
 amount of material they must learn, as well as the completeness,
 precision, accuracy, or depth of the learning. They also can delib-
 erately organize the environment to support behavior.
+33. Knowledge how—what psychologists call procedural knowledge—
+is the knowledge that enables a person to be a skilled musician,
+to return a serve in tennis, or to move the tongue properly when
+saying the phrase “frightening witches.” Procedural knowledge is
+difficult or impossible to write down and difficult to teach. It is
+best taught by demonstration and best learned through practice.
