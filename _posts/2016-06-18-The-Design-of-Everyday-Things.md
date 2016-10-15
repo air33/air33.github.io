@@ -164,3 +164,5 @@ to return a serve in tennis, or to move the tongue properly when
 saying the phrase “frightening witches.” Procedural knowledge is
 difficult or impossible to write down and difficult to teach. It is
 best taught by demonstration and best learned through practice.
+34. CONSTRAINTS SIMPLIFY MEMORY
+35. 
