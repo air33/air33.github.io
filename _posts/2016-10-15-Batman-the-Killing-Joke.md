@@ -7,8 +7,11 @@ layout: post
 ![封面1]({{ site.baseurl }}public/images/IMG_133514.JPG)
 ![封面2]({{ site.baseurl }}public/images/IMG_133415.JPG)
 
+编剧 Alan Moore ， 原画 布莱恩.伯兰德
 
-借来的一本蝙蝠侠漫画国内正版.
+按后记所说，这部作品是布莱恩.伯兰德的主意。
+
+借来的一本蝙蝠侠漫画，国内正版.
 
 之前已经看过动画版[蝙蝠侠：致命玩笑](https://movie.douban.com/subject/26692652/) , 动画版基本上还是按照漫画来，只是多了对芭芭拉的一些刻画
 
