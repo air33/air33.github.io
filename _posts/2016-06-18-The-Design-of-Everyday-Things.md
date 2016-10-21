@@ -165,4 +165,21 @@ saying the phrase “frightening witches.” Procedural knowledge is
 difficult or impossible to write down and difficult to teach. It is
 best taught by demonstration and best learned through practice.
 34. CONSTRAINTS SIMPLIFY MEMORY
-35. 
+35. hort-term or working memory (STM) retains the most recent experiences or material that is currently being thought about. It is the
+memory of the just present. Information is retained automatically
+and retrieved without effort; but the amount of information that
+can be retained this way is severely limited. Something like five to
+seven items is the limit of STM, with the number going to ten or
+twelve if the material is continually repeated
+36. To maximize efficiency of working memory it is best to present different information over different modalities: sight, sound, touch (haptics), hearing, spatial location, and gestures. 
+37. Long-term memory (LTM) is memory for the past. As a rule, it
+takes time for information to get into LTM and time and effort to
+get it out again. 
+38. we do not remember our experiences as an exact recording; rather, as
+bits and pieces that are reconstructed and interpreted each time
+we recover the memories, which means they are subject to all the
+distortions and changes that the human explanatory mechanism imposes upon life.
+39. Because retrieval is a reconstructive process, it can be erroneous.
+We may reconstruct events the way we would prefer to remember
+them, rather than the way we experienced them. It is relatively
+easy to bias people so that they form false memories 
