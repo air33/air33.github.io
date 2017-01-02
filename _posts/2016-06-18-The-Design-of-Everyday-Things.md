@@ -183,3 +183,21 @@ distortions and changes that the human explanatory mechanism imposes upon life.
 We may reconstruct events the way we would prefer to remember
 them, rather than the way we experienced them. It is relatively
 easy to bias people so that they form false memories 
+40. The most effective way of helping people remember is to make it unnecessary
+41. Civilization advances by extending the number of important operations which we can perform without thinking about them
+42. why couldn’t the past be in front of us and the future be-
+hind? Does that sound strange? Why? We can see what is in front
+of us, but not what is behind, just as we can remember what hap-
+pened in the past, but we can’t remember the future. Not only that,
+but we can remember recent events much more clearly than long-
+past events, captured neatly by the visual metaphor in which the
+past lines up before us, the most recent events being the closest
+so that they are clearly perceived (remembered), with long-past
+events far in the distance, remembered and perceived with diffi-
+culty. 
+43. Semantics is the study of meaning. Semantic constraints are those
+that rely upon the meaning of the situation to control the set of
+possible actions. ...Semantic constraints rely upon our knowl-
+edge of the situation and of the world. Such knowledge can be a
+powerful and important clue.But the meanings of today may not be the
+meanings of the future.
