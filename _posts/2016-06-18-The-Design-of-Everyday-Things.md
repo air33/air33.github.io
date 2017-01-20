@@ -201,3 +201,10 @@ possible actions. ...Semantic constraints rely upon our knowl-
 edge of the situation and of the world. Such knowledge can be a
 powerful and important clue.But the meanings of today may not be the
 meanings of the future.
+44. An interlock forces operations to take place in proper sequence.A lock-in keeps an operation active, preventing someone from prematurely stopping it.a lockout prevents someone from entering a space that is dangerous, or prevents an event from occurring.
+45.  It is the signifier component of the perceived affordance that allows people to determine the possible actionsThe interpretation of a perceived affordance is a cultural convention.Conventions are a special kind of cultural constraint.
+46. Consistency in design is virtuous. It means that lessons learned
+with one system transfer readily to others. On the whole, consis-
+tency is to be followed. If a new way of doing things is only slightly
+better than the old, it is better to be consistent.
+47. If all else fails, standardize.when no other solution appears possible, simply design everything the same way, so people only have to learn once
