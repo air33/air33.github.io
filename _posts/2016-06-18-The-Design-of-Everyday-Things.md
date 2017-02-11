@@ -209,3 +209,55 @@ tency is to be followed. If a new way of doing things is only slightly
 better than the old, it is better to be consistent.
 47. If all else fails, standardize.when no other solution appears possible, simply design everything the same way, so people only have to learn once
 48. One way of overcoming the fear of the new is to make it look like the old
+49. “Five Whys,” originally developed by Sakichi Toyoda and used by
+the Toyota Motor Company as part of the Toyota Production Sys-
+tem for improving quality... Basically,
+it means that when searching for the reason, even after you have
+found one, do not stop: ask why that was the case. And then ask
+why again. Keep asking until you have uncovered the true under-
+lying causes. 
+50. When people err, change the
+system so that type of error will be reduced or eliminated. When
+complete elimination is not possible, redesign to reduce the impact
+51. People are creative, constructive, exploratory beings. We are par-
+ticularly good at novelty, at creating new ways of doing things,
+and at seeing new opportunities. Dull, repetitive, precise require-
+ments fight against these traits. 
+52. We might even be rewarded and praised for our heroic efforts. But when things go wrong and we fail, then this same
+behavior is blamed and punished.
+53. Classification of Errors. Errors have two major
+forms. Slips occur when the goalis correct, but the required actions
+are not done properly: the execution is flawed. Mistakes occur
+when the goal or plan is wrong.Slips and mistakes can be further
+divided based upon their underlying causes. Memory lapses can
+lead to either slips or mistakes, depending upon whether the
+memory failure was at the highest level of cognition (mistakes) or at
+lower (subconscious) levels (slips).
+54. The capture slip is defined as the situation where, instead of the
+desired activity, a more frequently or recently performed one gets
+done instead: it captures the activity.
+55. Designers need to avoid procedures that have identical open-
+ing steps but then diverge. The more experienced the workers, the
+more likely they are to fall prey to capture. Whenever possible,
+sequences should be designed to differ from the very start.
+56. a description-similarity slip, the error is to
+act upon an item similar to the target. This happens when the de-
+scription of the target is sufficiently vague.
+57. Designers need to ensure that controls and displays for differ-
+ent purposes are significantly different from one another. 
+58. Memory lapses are common causes of error. They can lead to
+several kinds of errors: failing to do all of the steps of a procedure;
+repeating steps; forgetting the outcome of an action; or forgetting
+the goal or plan, thereby causing the action to be stopped.
+59. A mode error occurs when a device has different states in which
+the same controls have different meanings: we call these states
+modes. Mode errors are inevitable in anything that has more pos-
+sible actions than it has controls or displays; that is, the controls
+mean different things in the different modes. This is unavoidable
+as we add more and more functions to our devices.
+60. Designers must try to avoid modes,
+but if they are necessary, the equipment must make it obvious
+which mode is invoked. 
+61. retrieval from longterm memory is actually a reconstruction rather than an accurate record. As a result, it is subject to numerous biases. Among other
+things, our memories tend to be biased toward overgeneralization
+of the commonplace and overemphasis of the discrepant
