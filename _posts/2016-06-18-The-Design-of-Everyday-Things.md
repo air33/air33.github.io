@@ -261,3 +261,15 @@ which mode is invoked.
 61. retrieval from longterm memory is actually a reconstruction rather than an accurate record. As a result, it is subject to numerous biases. Among other
 things, our memories tend to be biased toward overgeneralization
 of the commonplace and overemphasis of the discrepant
+62. Provide as much guidance as possible
+to ensure that the current state of things is displayed in a coherent
+and easily interpreted format—ideally graphical
+63. Hindsight is always superior to foresight.
+64. Knowledge-based behavior takes place when the situation is novel
+enough that there are no skills or rules to cover it.
+65. Memory lapses can lead to mistakes if the memory failure leads to
+forgetting the goal or plan of action. A common cause of the lapse
+is an interruption that leads to forgetting the evaluation of the cur-
+rent state of the environment.
+66. Checklists are powerful tools, proven to increase the accuracy of
+behavior and to reduce error, particularly slips and memory lapses.
