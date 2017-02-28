@@ -273,3 +273,30 @@ is an interruption that leads to forgetting the evaluation of the cur-
 rent state of the environment.
 66. Checklists are powerful tools, proven to increase the accuracy of
 behavior and to reduce error, particularly slips and memory lapses.
+67. It is always better to have two people do checklists together as a team: one to read the instruction, the other to execute it.
+68. Rather than stigmatize those who admit to error,
+we should thank those who do so and encourage the reporting.
+We need to make it easier to report errors, for the goal is not to
+punish, but to determine how it occurred and change things so
+that it will not happen again
+69. Once people find an explanation for an apparent anomaly, they
+tend to believe they can now discount it. But explanations are
+based on analogy with past experiences, experiences that may not
+apply to the current situation
+70. Hindsight makes events seem obvious and predictable. Foresight
+is difficult.
+71. It is relatively easy to design for the situation where everything
+goes well, where people use the device in the way that was in-
+tended, and no unforeseen events occur. The tricky part is to de-
+sign for when things go wrong.
+72. Here is what should be done
+     1. Understand the causes of error and design to minimize those causes.
+     2. Do sensibility checks. Does the action pass the “common sense” test?
+     3. Make it possible to reverse actions—to “undo” them—or make it
+         harder to do what cannot be reversed.
+     4. Make it easier for people to discover the errors that do occur, and
+         make them easier to correct.
+     5. Don’t treat the action as an error; rather, try to help the person com-
+         plete the action properly. Think of the action as an approximation to
+         what is desired
+73. 
