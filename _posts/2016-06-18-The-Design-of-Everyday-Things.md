@@ -299,4 +299,77 @@ sign for when things go wrong.
      5. Don’t treat the action as an error; rather, try to help the person com-
          plete the action properly. Think of the action as an approximation to
          what is desired
-73. 
+73. Electronic systems have a wide range of methods that could be
+used to reduce error. One is to segregate controls, so that easily
+confused controls are located far from one another. Another is
+to use separate modules, so that any control not directly relevant
+to the current operation is not visible on the screen, but requires
+extra effort to get to.
+74. Perhaps the most powerful tool to minimize the impact of errors
+is the Undo command in modern electronic systems, reversing the
+operations performed by the previous command, wherever pos-
+sible.
+75. Make the item being acted upon more prominent. Make the operation reversible. 
+76. The best way of mitigating slips is to provide perceptible feed-
+back about the nature of the action being performed, then very
+perceptible feedback describing the new resulting state, coupled
+with a mechanism that allows the error to be undone. 
+77. Procedures should be designed so that the initial steps are as dis-
+similar as possible.
+78. Put the knowledge required to operate the technology in the world；Use the power of natural and artificial constraints: physical, logical,
+semantic, and cultural. Exploit the power of forcing functions and
+natural mappings；Bridge the two gulfs, the Gulf of Execution and the Gulf of Evaluation. Make things visible, both for execution and evaluation
+79. One of my rules in consulting is simple: never solve the
+problem I am asked to solve. Why such a counterintuitive rule? Because, invariably, the problem I am asked
+to solve is not the real, fundamental, root problem. It
+is usually a symptom... in design, the secret to success is to understand what
+the real problem is
+80. Good designers never start by trying to solve the problem given
+to them: they start by trying to understand what the real issues are
+81. Human-centered design (HCD) is the process of ensuring that
+people’s needs are met, that the resulting product is understand-
+able and usable, that it accomplishes the desired tasks, and that the
+experience of use is positive and enjoyable.
+82. When odoing HCD, everyone has his or her own favorite method,
+but all are variants on the common theme: iterate through the four
+stages of observation, generation, prototyping, and testing. But
+even before this, there is one overriding principle: solve the right
+problem.
+83. The Double-Diamond Model of Design: Designers often start by questioning the problem given to them: they expand the scope of the problem, diverging to examine all
+the fundamental issues that underlie it. Then they converge upon
+a single problem statement. During the solution phase of their
+studies, they first expand the space of possible solutions, the di-
+vergence phase. Finally, they converge upon a proposed solution
+84. As a result, the studies can focus upon the activi-
+ties and how they get done, while being sensitive to how the local
+environment and culture might modify those activities. 
+85. Once the design requirements are determined, the next step for
+a design team is to generate potential solutions. This process is
+called idea generation, or ideation. two major rules are usually followed:Generate numerous ideas.be creative without regard for constraints. Question everything.
+86. The only way to really know whether an idea is reasonable is to
+test it.
+87. The hardest part of design is getting the requirements right,
+which means ensuring that the right problem is being solved, as
+well as that the solution is appropriate.Requirements made in the
+abstract are invariably wrong. Requirements produced by asking
+people what they need are invariably wrong. Requirements are de-
+veloped by watching people in their natural environment...Any system that does not allow for special cases will fail.
+88. Design for individuals and the results may be wonderful for the
+particular people they were designed for, but a mismatch for oth-
+ers. Design for activities and the result will be usable by everyone.
+89. In theory, there is no difference between theory and practice.
+In practice, there is.
+90. The day a product development process starts, it is behind schedule and
+above budget.
+91. In a properly run organization, team members coming from all
+the various aspects of the product cycle get together to share their
+requirements and to work harmoniously to design and produce
+a product that satisfies them, or at least that does so with accept-
+able compromises. 
+92. Design is a complex activity. But the only way this complex pro-
+cess comes together is if all the relevant parties work together as
+a team. 
+93. special features made for people with special needs often
+turn out to be useful for a wide variety of people.The best solution to the problem of designing for everyone is flexibility
+94. The most important principle for taming complexity is to pro-
+vide a good conceptual model
