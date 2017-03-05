@@ -8,7 +8,7 @@ layout: post
 
 ​      by Don Norman
 
-这本设计和心理学方便的经典书，花了大半年断断续地读完。其实英文原文写得相当言简意赅和论述严密。好多值得一再品味地句子。
+这本设计和心理学方面的经典书，花了大半年断断续续地读完。其实英文原文写得相当言简意赅和论述严密。好多值得一再品味的句子。
 
 
 1. Two of the most important characteristics of good design are discoverability and understanding.Discoverability: Is it possible to even figure out what actions are possible and where and how to perform them? Understanding: What does it all mean? How is the product supposed to be used?What do all the different controls and settings mean?
