@@ -8,7 +8,7 @@ layout: post
 
 ​      by Don Norman
 
-
+花了大半年断断续地读完。
 
 
 1. Two of the most important characteristics of good design are discoverability and understanding.Discoverability: Is it possible to even figure out what actions are possible and where and how to perform them? Understanding: What does it all mean? How is the product supposed to be used?What do all the different controls and settings mean?
@@ -373,3 +373,36 @@ a team.
 turn out to be useful for a wide variety of people.The best solution to the problem of designing for everyone is flexibility
 94. The most important principle for taming complexity is to pro-
 vide a good conceptual model
+95. Standardize and you simplify lives: everyone learns the system
+only once.
+96. The design of technology to fit human
+needs and capabilities is determined by the psychology of people.
+Yes, technologies may change, but people stay the same.
+97. A better strategy is to concentrate on areas
+where they are stronger and to strengthen them even more. Then
+focus all marketing and advertisements to point out the strong
+points. This causes the product to stand out from the mindless
+herd. 
+98. Radical innovation changes lives and industries. Incremental innovation makes things better. We need both.
+99. hill climbing, analogous to climbing a hill blindfolded. Move your
+foot in one direction. If it is downhill, try another direction. If the
+direction is uphill, take one step. Keep doing this until you have
+reached a point where all steps would be downhill; then you are at
+the top of the hill, or at least at a local peak.
+100. The more things change, the more they are the same.
+101. What this means is that although technology is continually
+introducing new means of doing things, people are resistant to
+changes in the way they do things.
+102. The power of the unaided mind is highly overrated. Without external
+aids, deep, sustained reasoning is difficult. Unaided memory, thought,
+and reasoning are all limited in power. Human intelligence is highly
+flexible and adaptive, superb at inventing procedures and objects that
+overcome its own limits. The real powers come from devising external
+aids that enhance cognitive abilities.
+103. good ideas that appear too early will fail.
+104. We are surrounded with objects of desire, not objects of use.
+105. Designers need to make things that satisfy people’s needs, in
+terms of function, in terms of being understandable and usable,
+and in terms of their ability to deliver emotional satisfaction, pride,
+and delight. In other words, the design must be thought of as a
+total experience.
